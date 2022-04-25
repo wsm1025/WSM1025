@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![这是图片](https://cos.biacgn.com/img_lolibz_com/2021/12/19/Pid_14803439_p0__583858__lolibz_com_49792346b6bc8c8a3c83f.jpg "Magic Gardens")
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wsm1025&count_private=true&show_icons=true"/> 
 
