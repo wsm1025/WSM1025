@@ -14,3 +14,4 @@
 ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react.js)
 ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+![uni](https://img.shields.io/badge/-Uni-333333?style=flat&logo=uni)
