@@ -7,11 +7,11 @@
 <a href="mailto:2438541380@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2438541380@qq.com-blue?style=flat-square&logo=gmail"></a>
 
 ### 🛠 &nbsp;Code with
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react.js)
-![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
-![uni](https://img.shields.io/badge/-Uni-333333?style=flat&logo=uni)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ef475d?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-ef475d?style=flat&logo=typescript)
+![Vue](https://img.shields.io/badge/-Vue-ef475d?style=flat&logo=vue.js)
+![Node.js](https://img.shields.io/badge/-Node-ef475d?style=flat&logo=node.js)
+![React.js](https://img.shields.io/badge/-React-ef475d?style=flat&logo=react.js)
+![Express.js](https://img.shields.io/badge/-Express-ef475d?style=flat&logo=express.js)
+![miniprogram](https://img.shields.io/badge/-Miniprogram-ef475d?style=flat&logo=wechat)
+![uniApp](https://img.shields.io/badge/-uniApp-ef475d?style=flat&logo=uniApp)
