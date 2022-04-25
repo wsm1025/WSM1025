@@ -15,3 +15,6 @@
 ![Express.js](https://img.shields.io/badge/-Express-ef475d?style=flat&logo=express.js)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-ef475d?style=flat&logo=wechat)
 ![uniApp](https://img.shields.io/badge/-uniApp-ef475d?style=flat&logo=uniApp)
+
+### 欢迎观临
+<img src="https://profile-counter.glitch.me/wsm1025/count.svg" />
