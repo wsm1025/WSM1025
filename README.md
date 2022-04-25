@@ -11,6 +11,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![react.js](https://img.shields.io/badge/-react-333333?style=flat&logo=react.js)
-![express.js](https://img.shields.io/badge/-express-333333?style=flat&logo=express.js)
+![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react.js)
+![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
