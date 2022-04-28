@@ -1,5 +1,3 @@
-![这是图片](http://taizonga.top:3000/public/images/upload_2e320ad68bce54ac9c4b780f4a2b1b362022_4_28_23_52_53-masxy.jpg "老二次元")
-
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wsm1025&count_private=true&show_icons=true"/> 
 
 ### 🤝🏻 &nbsp;Connect with Me
