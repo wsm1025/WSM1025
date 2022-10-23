@@ -15,3 +15,6 @@
 
 ### 欢迎观临
 <img src="https://profile-counter.glitch.me/wsm1025/count.svg" />
+
+### 现在在做什么
+学习 Vue.js 设计与实现
